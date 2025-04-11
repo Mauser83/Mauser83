@@ -14,7 +14,7 @@ I'm a motivated and curious software developer from Laitila, Finland, with a bac
 
 ## 🛠️ My Projects
 
-- 📚 [Full Stack Open Exercises](https://github.com/Mauser83/fullstackopen) – Course exercises
+- 📚 [Full Stack Open Exercises](https://github.com/Mauser83/studies/tree/main/full%20stack%20open) – Course exercises
 
 **“A positive mindset and a love of learning go with me everywhere.”**  
 When I'm not coding, you’ll most likely find me at the gym (5–6 times a week 💪) or spending time with my family.
