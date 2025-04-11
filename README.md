@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Mauno Elo!
 
-I'm a motivated and curious software developer from Laitila, Finland, with a background in logistics and a growing passion for full stack development. I enjoy solving problems, learning new technologies, and exploring how artificial intelligence can enhance software.
+I'm a motivated and curious software developer from Finland with a strong interest in full stack development and artificial intelligence. I enjoy solving real-world problems with clean code and thoughtful design.
+
+I come from a background in logistics and warehouse operations, which has taught me responsibility, attention to detail, and working under pressure — all of which I now apply in software development.
 
 ## 🔧 My Skills & Tools
 
@@ -8,13 +10,22 @@ I'm a motivated and curious software developer from Laitila, Finland, with a bac
 - Backend: **Node.js**, **GraphQL**, **Express**
 - Databases: **MongoDB**, learning **PostgreSQL**
 - Testing: **Jest**, **React Testing Library**
-- Other: **Git**, **GitHub**, **CAD (reading drawings)**, **Forklift certified 🚜**
+- Dev tools: **Git**, **GitHub**
+- Other: Strong understanding of systems, workflows, and problem-solving
 
-💡 Currently studying [Full Stack Open](https://fullstackopen.com/en/) (2025) by the University of Helsinki, diving deeper into CI/CD, Docker, and relational databases.
+💡 Currently expanding my skills through the [Full Stack Open](https://fullstackopen.com/en/) course by the University of Helsinki.
 
-## 🛠️ My Projects
+## 📚 Projects
 
-- 📚 [Full Stack Open Exercises](https://github.com/Mauser83/studies/tree/main/full%20stack%20open) – Course exercises
+- 🔗 [Full Stack Open Exercises](https://github.com/Mauser83/fullstackopen) – My personal solutions and notes from the course.
 
-**“A positive mindset and a love of learning go with me everywhere.”**  
-When I'm not coding, you’ll most likely find me at the gym (5–6 times a week 💪) or spending time with my family.
+## 🎯 Learning Goals
+
+- CI/CD pipelines (GitHub Actions, etc.)
+- Docker & containerization
+- PostgreSQL & relational database design
+- Exploring AI in software development
+
+## 🧠 A Bit More About Me
+
+Outside of coding, I’m passionate about strength training and go to the gym 5–6 times a week. I enjoy learning new things, staying positive, and being part of a supportive team environment.
