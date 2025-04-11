@@ -17,7 +17,7 @@ I come from a background in logistics and warehouse operations, which has taught
 
 ## 📚 Projects
 
-- 🔗 [Full Stack Open Exercises](https://github.com/Mauser83/fullstackopen) – My personal solutions and notes from the course.
+- 🔗 [Full Stack Open Exercises](https://github.com/Mauser83/studies/tree/main/full%20stack%20open) – My personal solutions and notes from the course.
 
 ## 🎯 Learning Goals
 
