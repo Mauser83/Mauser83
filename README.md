@@ -16,8 +16,8 @@ I come from a background in logistics and warehouse operations, which has taught
 💡 Currently expanding my skills through the [Full Stack Open](https://fullstackopen.com/en/) course by the University of Helsinki.
 
 ## 📚 Projects
-- 🔗 [GymBuddy Frontend](https://github.com/Mauser83/gymbuddy-frontend) – React Native app for gym-goers to track workouts, browse gyms, and build training plans.
-- 🔗 [GymBuddy Backend](https://github.com/Mauser83/gymbuddy-backend) – Node.js + GraphQL API with PostgreSQL for managing users, gyms, and workout data.
+- 🔗 [GymBuddy Frontend] – React Native app for gym-goers to track workouts, browse gyms, and build training plans.
+- 🔗 [GymBuddy Backend] – Node.js + GraphQL API with PostgreSQL for managing users, gyms, and workout data.
 - 🔗 [Full Stack Open Exercises](https://github.com/Mauser83/studies/tree/main/full%20stack%20open) – My personal solutions and notes from the course.
 
 ## 🎯 Learning Goals
